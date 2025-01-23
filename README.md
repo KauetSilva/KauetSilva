@@ -5,7 +5,7 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas na Unifacs.
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas na Unifacs.
 - 💼 Trabalhando como desenvolvedor Full Stack na <a href="https://jmvtechnology.com/pt-br/">JMV Technology.</a>
 
 <h3>Minhas Skills</h3>
